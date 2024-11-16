@@ -2,7 +2,7 @@ Here's a cool and detailed README for your **Spotify Clone** project:
 
 ---
 
-# 🎵 Spotify Clone
+# 🎵 Music Player UI
 
 A simple yet functional **Spotify Clone** built using **HTML**, **CSS**, and **JavaScript**. This project is a one-page website designed to mimic a basic music player interface, allowing users to explore core web development concepts while implementing interactive functionalities.
 
